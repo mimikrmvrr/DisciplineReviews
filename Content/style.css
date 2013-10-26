@@ -1,0 +1,20 @@
+@import url("bootstrap.min.css");
+@import url("bootstrap-responsive.min.css");
+@import url("united.min.css");
+
+.navbar-inner,
+.nav,
+nav
+{
+	height: 42px;
+}
+
+.search-bar
+{
+	float: right;
+}
+
+.hero-unit
+{
+	margin-top: 10px;
+}
